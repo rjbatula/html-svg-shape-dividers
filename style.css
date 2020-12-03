@@ -1,0 +1,111 @@
+/* Single Arc */
+.singlearc{
+    fill: #bf3939;;
+}
+
+/* Blob */
+.blob{
+    fill: #cb28d1;
+}
+
+/* Book */
+.book{
+    fill: #0ec277;
+}
+
+/* Cloud */
+.cloud{
+    fill: #4ad4f0;
+}
+
+/* Double Arc */
+.doublearc{
+    fill: #de2651;
+}
+
+/* Fan */
+.fan-1, .fan-2, .fan-3, .fan-4{
+    fill: #4b4b9c;
+}
+.fan-1{
+    opacity: 0.8;
+}
+
+.fan-2{
+    opacity: 0.6;
+}
+
+.fan-3{
+    opacity: 0.4;
+}
+
+/* Range */
+.range-1{
+    fill: #786f3a;
+}
+
+.range-2{
+    fill: #9e924c;
+}
+
+/* Paint Drops */
+.paintdrops{
+    fill: #3fc0c4;
+}
+
+/* Peeks */
+.peeks{
+    fill: #37b891;
+}
+
+/* Hills */
+.hills-1, .hills-2, .hills-3, .hills-4{
+    fill: #c2295e;
+}
+
+.hills-1{
+    opacity: 0.3;
+}
+.hills-2{
+    opacity: 0.4;
+}
+.hills-3{
+    opacity: 0.5;
+}
+
+/* Water */
+.water-1{
+    fill: #3b82bf;
+}
+.water-2{
+    fill:#81d3f1;
+}
+.water-2{
+    mix-blend-mode:multiply;
+}
+
+/* Rays */
+.rays{
+    fill: #db8d40;
+    opacity: 0.5;
+}
+
+/* Waves */
+.waves-1,.waves-2{
+    fill:#c64ecc;
+}
+.waves-1{
+    opacity:0.5;
+}
+.waves-2{
+    opacity:0.4;
+}
+
+/* Triangles */
+.triangle-1 {
+    fill: #1e6deb;
+}
+
+.triangle-2{
+    fill: #1653b5;
+}
